@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Coming Soon...**
 
-- 🌱 I’m currently learning **Software Engineering Concepts @ ALX x Holberton - Software Engineering**
+- 🌱 I’m currently learning **Software Engineering Concepts @ ALX x Holberton - Software Engineering Programme**
 
 - 💬 Ask me about **React, Blockchain and Web3**
 
