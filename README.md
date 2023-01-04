@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering Concepts @ ALX x Holberton - Software Engineering Programme**
 
-- 💬 Ask me about **Python, Django and React **
+- 💬 Ask me about **Python, Django and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
