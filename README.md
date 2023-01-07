@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uchechukwu Ottah</h1>
+<h1 align="center">Hi there 👋, I'm Uchechukwu Ottah</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/coderboy_exe" target="blank"><img src="https://img.shields.io/twitter/follow/coderboy_exe?logo=twitter&style=for-the-badge" alt="coderboy_exe" /></a> </p>
