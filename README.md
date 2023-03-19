@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A bunch of stuff...**
 
-- 🌱 I’m currently learning **Software Engineering Concepts @ ALX x Holberton - Software Engineering Programme**
+- 🌱 I’m currently learning **Backend Engineering with Python and NodeJS @ ALX x Holberton - Software Engineering Programme**
 
 - 💬 Ask me about **Python, Flask, Django and React**
 
