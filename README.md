@@ -14,7 +14,7 @@
 <a href="https://dev.to/coderboy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coderboy_exe" height="30" width="40" /></a>
 <a href="https://twitter.com/coderboy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderboy_exe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uchechukwu-ottah-92968a162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uchechukwu-ottah-92968a162" height="30" width="40" /></a>
-<a href="https://instagram.com/coderboy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderboy_exe" height="30" width="40" /></a>
+<a href="https://instagram.com/the.uchechukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderboy_exe" height="30" width="40" /></a>
 <a href="https://medium.com/@coderboy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderboy_exe" height="30" width="40" /></a>
 </p>
 
