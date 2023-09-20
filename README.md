@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and Go**
 
-- 💬 Ask me about **Python, Flask, Django and React**
+- 💬 Ask me about **Backend engineering and architechure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
