@@ -27,5 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderboy-exe&" alt="coderboy-exe" /></p>
 
-
-[![Uche's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderboy-exe)](https://github.com/anuraghazra/github-readme-stats)
