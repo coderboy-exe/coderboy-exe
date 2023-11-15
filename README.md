@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A bunch of stuff...**
 
-- 🌱 I’m currently learning **C# and Go**
+- 🌱 I’m currently learning **C# and .NET Core**
 
 - 💬 Ask me about **Backend engineering and architechure**
 
