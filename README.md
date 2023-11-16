@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/coderboy_exe" target="blank"><img src="https://img.shields.io/twitter/follow/coderboy_exe?logo=twitter&style=for-the-badge" alt="coderboy_exe" /></a> </p>
 
-- 🔭 I’m currently working on **A bunch of stuff...**
+- 🔭 I’m currently working on **A bunch of projects where I majorly use Python and C# .NET Core**
 
 - 🌱 I’m currently learning **C# and .NET Core**
 
