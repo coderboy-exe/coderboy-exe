@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A bunch of projects where I use a lot of Python and C# .NET Core**
 
-- 🌱 I’m currently learning **C# and .NET Core (on the job)**
+- 🌱 I’m currently learning **C# and .NET Core Best Practices and Design Patterns**
 
 - 💬 Ask me about **Backend engineering and architechure**
 
