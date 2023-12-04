@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A bunch of projects where I use a lot of Python and C# .NET Core**
 
-- 🌱 I’m currently learning about **Distributed Systems Design and Architecture**
+- 🌱 I’m currently learning about **Distributed Systems**
 
 - 💬 Ask me about **Backend engineering and architechure**
 
