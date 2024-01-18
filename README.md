@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/coderboy_exe" target="blank"><img src="https://img.shields.io/twitter/follow/coderboy_exe?logo=twitter&style=for-the-badge" alt="coderboy_exe" /></a> </p>
 
-- 🔭 **<a href="https://tech.alxafrica.com/nigeria">ALX Africa Fullstack Software Engineering Programme</a> Alumni (July 2023)**
+- 🔭 **<a href="https://tech.alxafrica.com/nigeria">ALX Africa Fullstack Software Engineering</a>  Alumni (July 2023)**
   
 - 🔭 I’m currently working on **A bunch of projects where I use a lot of Python and C# .NET Core**
 
