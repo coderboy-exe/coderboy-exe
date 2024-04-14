@@ -5,7 +5,7 @@
 
 - 🔭 **<a href="https://tech.alxafrica.com/nigeria">ALX Africa Fullstack Software Engineering</a>  Alumni (July 2023)**
   
-- 🔭 I’m currently working on **A bunch of projects where I use a lot of Python and C# .NET Core**
+- 🔭 I’m currently working on **A bunch of personal projects** in my free time
 
 - 🌱 I’m currently learning about **Distributed Systems && Messaging concepts**
 
