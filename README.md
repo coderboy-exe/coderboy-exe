@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **A bunch of personal projects** in my free time
 
-- 🌱 I’m currently learning about **Distributed Systems && Messaging concepts**
+- 🌱 I’m currently learning about **System Design && Distributed Systems**
 
 - 💬 Ask me about **Backend engineering and architechure**
 
