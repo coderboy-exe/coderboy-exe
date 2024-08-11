@@ -77,7 +77,7 @@
 
 <p><img align="left" src="https://github-readme-stats-coderboy-exe.vercel.app/api/top-langs?username=coderboy-exe&show_icons=true&locale=en&layout=compact" alt="coderboy-exe" /></p>
 
-**<p>NOTE: This is not a reflection of my skill level with any of these technologies.</p>**
+<!----**<p>NOTE: This is not a reflection of my skill level with any of these technologies.</p>** ---->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-coderboy-exe.vercel.app/api?username=coderboy-exe&show_icons=true&locale=en&count-private=true" alt="coderboy-exe" /></p>
 
